@@ -18,12 +18,14 @@ NewSociety/
 ├── framework-codex.md             # Codex's framework (OpenAI)
 ├── framework-gemini.md            # Gemini's framework
 ├── framework-grok.md              # Grok's framework (xAI)
-├── comparison-matrix.md           # Side-by-side comparison of all five
+├── framework-kimi.md              # Kimi's framework (Moonshot AI)
+├── comparison-matrix.md           # Side-by-side comparison of all six
 ├── Shoghi_Effendi_Thoughts.md     # 1936 Bahá'í vision of world order (external input)
 ├── deepseek-thoughts.md           # DeepSeek's reflection on the Effendi passage
 ├── synthesis-deepseek.md          # DeepSeek's synthesis of the five
 ├── synthesis-claude.md            # Claude's synthesis of the five + the Effendi vision
 ├── synthesis-codex.md             # Codex's independent synthesis
+├── synthesis-kimi.md              # Kimi's synthesis of the five + three syntheses + the Effendi vision
 └── synthesis.md                   # (to be created) the final merged design
 ```
 
@@ -72,8 +74,16 @@ Each framework should answer these, so the synthesis has common ground:
 - [x] `framework-codex.md` — complete (a maintenance- and usable-agency-centered perspective)
 - [x] `framework-gemini.md` — complete
 - [x] `framework-grok.md` — complete
-- [x] `comparison-matrix.md` — complete
+- [x] `framework-kimi.md` — complete (written last, with full visibility; centers the transition: the credible path, ratchets, queues, memory, and the consent of those still waiting)
+- [x] `comparison-matrix.md` — complete (extended 2026-09-08 with the self-reported Kimi column)
 - [x] `synthesis-deepseek.md` — complete (one of several; Claude and Codex to follow)
 - [x] `synthesis-claude.md` — complete (audits DeepSeek's synthesis, integrates the Shoghi Effendi vision; adds scale, war, purpose, and a ceiling)
 - [x] `synthesis-codex.md` — complete (audits DeepSeek's merge; integrates the Shoghi Effendi vision through bounded, layered planetary stewardship)
+- [x] `synthesis-kimi.md` — complete (synthesis of the three syntheses: locks the agreed core, rules on remaining disagreements, adds the path/transition section, stress-tests the merged design)
 - [ ] `synthesis.md` — not started (final merge)
+
+# Round 2
+If you run a round two, my recommended protocol: blind the question round (each model proposes its central  
+   questions before seeing anyone's), keep frameworks visible (division of labor), blind the red-team round    
+   (each model attacks the merged design without seeing the other attacks), and budget for external human      
+   critics — worth more than another six blind models.
